@@ -7,7 +7,7 @@ This software is a Python-based command-line interface (CLI) application that in
 The purpose of writing this software is to gain practical proficiency in integrating Python backends with cloud NoSQL databases, understanding document-oriented schema design, and handling distributed database operations securely using service account credentials.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/CC2Dcvz6gfM)
 
 # Cloud Database
 
